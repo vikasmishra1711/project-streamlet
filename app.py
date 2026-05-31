@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 
 # 1. Page Setup
-st.header("vikas mishra ji doing chnages in the code")
 st.set_page_config(
     page_title="Pure Streamlit Dashboard",
     page_icon="📈",
@@ -37,7 +36,7 @@ else:
     filtered_df = df
 
 # 4. Header Zone
-st.title("📈 Business Overview")
+st.title("📈 large development Business Overview")
 st.caption("A clean, production-ready dashboard built entirely with native Streamlit features.")
 st.divider()
 
